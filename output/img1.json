@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "ce9ec2c7-b77f-4c4c-9bb5-edf061050bc1",
+    "content-length": "151",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a dog in a muddy stream",
+      "confidence": 0.741245448589325
+    },
+    "metadata": {
+      "width": 3072,
+      "height": 4080
+    }
+  }
