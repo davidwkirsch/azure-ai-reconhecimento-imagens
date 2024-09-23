@@ -26,11 +26,8 @@ Durante o desenvolvimento deste projeto, alguns pontos importantes foram observa
 ## Prints
 Aqui estão alguns prints do processo:
 
-### Exemplo de Imagem na Pasta Inputs
-!Imagem de Exemplo
-
-### Resultado do Reconhecimento de Texto
-!Resultado do OCR
+![Resultado da primeira imagen](result1.png "Plataforma da Azure com uma descrição automática de uma imagem de um cachorro na lama")
+![Resultado da segunda imagen](result2.png "Plataforma da Azure com o reconhecimento de texto de um quadro com coisas escritas")
 
 ## Conclusão
 Este projeto demonstrou a importância de uma boa organização e da escolha correta das ferramentas para o reconhecimento de texto em imagens. A prática de armazenar os resultados de forma organizada facilita a análise e o uso posterior dos dados.
